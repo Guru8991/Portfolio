@@ -210,13 +210,9 @@ img {
 }
 
 .nav__toggle {
-  font-size: 1.1rem;
   cursor: pointer;
 }
 
-.nav__toggle:hover {
-  color: var(--first-color);
-}
 
 @media screen and (max-width: 767px) {
   .nav__menu {

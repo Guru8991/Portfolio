@@ -182,7 +182,6 @@ img {
   background-color: var(--body-color);
 }
 
-
 /*==================== Email js Send message  CSS ====================*/
 .success-message {
   background-color: var(--first-color);
@@ -407,7 +406,8 @@ img {
 
 /*==================== ABOUT ====================*/
 .about__img {
-  width: 400px;
+  width: 300px;
+  height: 300px;
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
@@ -725,7 +725,7 @@ img {
 
 .footer__title,
 .footer__subtitle {
-color: #fff;
+  color: #fff;
 }
 
 /*========== SCROLL UP ==========*/
